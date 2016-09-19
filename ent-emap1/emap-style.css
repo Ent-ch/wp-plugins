@@ -1,0 +1,12 @@
+#map-canvas {
+    width:820px;
+	height: 300px;
+	margin: 0px;
+	padding: 0px
+}
+
+.ent-emap-add-post input, .ent-emap-add-post select, .ent-emap-add-post textarea, .ent-emap-add-post #map-canvas {
+	margin: 10px;
+}
+
+.e-map {width:820px; height:300px;}

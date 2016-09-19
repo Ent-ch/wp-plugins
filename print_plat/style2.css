@@ -1,0 +1,4 @@
+
+#menu-users, .wp-menu-separator, #menu-dashboard, .update-nag, #contextual-help-link-wrap{
+	visibility: hidden;
+}

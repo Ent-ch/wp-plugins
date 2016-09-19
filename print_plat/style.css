@@ -1,0 +1,25 @@
+.plttable {
+	width:99%;
+	border-top:1px solid black;
+	border-left:1px solid black;
+	border-right:1px solid black;
+	border-spacing: 0px;
+}
+.plttable td{
+	border-bottom:1px solid black;
+	padding:5px;
+}
+
+.plthtable {
+	margin-top:35px;
+	width:99%;
+	border-top:1px solid black;
+	border-left:1px solid black;
+	border-right:1px solid black;
+	border-spacing: 0px;
+}
+.plthtable td{
+	border-bottom:1px solid black;
+	padding:5px;
+}
+

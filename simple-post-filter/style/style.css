@@ -1,0 +1,14 @@
+.spfilter-post_tag{width:300px;}
+#sp-filter-from, #sp-filter-to{width:65px; height: 15px}
+.spfilter-post_tag, .spfilter-category{height:15px}
+.widget_spfilter_widget label {padding-left:5px; padding-right:5px}
+.widget_spfilter_widget .widget-title {margin-bottom: 10px!important}
+.widget_spfilter_widget .SumoSelect {margin-top: 5px}
+.widget_spfilter_widget .sp-filter-first {margin-top: 15px; display: block;}
+div.ui-datepicker{ font-size:11px;}
+div.ui-datepicker-title{ height: 20px;}
+.ui-datepicker-month{ padding: 2px;}
+.selfilters{display: none;}
+.spfilter-selper a{display: block; padding: 3px;}
+.sfa-sel{font-weight: bold}
+.widget_spfilter_widget p {padding-bottom: 0px; margin-bottom: 3px!important; line-height: 1em!important; padding-top: 8px; }

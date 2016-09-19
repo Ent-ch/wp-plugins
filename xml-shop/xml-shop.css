@@ -1,0 +1,62 @@
+.catoffer{
+	float: left;
+	width: 30%;
+	text-align: center;
+	margin: 10px;
+	height:350px;
+}
+
+#selcat {
+	font-weight: bold;
+}
+
+.catoffer img{
+	height:100px;
+}
+
+.catoffer span{
+	display: block;
+	margin-top: 5px;	
+}
+
+.offname{
+	height:100px;
+	font-size: 12pt;
+}
+
+.offprice{
+	text-align: center;
+	margin: 20px;
+	font-size: 20pt;
+}
+
+.pageoffer{
+	float: left;
+	width: 50%;
+	text-align: center;
+	margin: 10px;
+	min-height:550px;
+}
+
+.description{
+	font-size: 10pt;
+	text-align: left;
+}
+
+.pagepict{
+	text-align: center;
+}
+
+.pagepict img{
+	width:300px;
+}
+.offurl{
+	text-align: center;
+}
+.offpager{
+	text-align: center;
+	clear: both;
+	padding-top: 15px;	
+	border-top: 1px solid black;
+	margin-top: 10px;
+}
